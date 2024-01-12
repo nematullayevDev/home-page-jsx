@@ -1,4 +1,4 @@
-import Button from "./Button";
+import Button from "./button";
 function MainHome() {
   return (
     <div className="main_df">
